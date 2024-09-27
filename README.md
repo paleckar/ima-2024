@@ -12,8 +12,13 @@
 ## Assignments
 
 1. [Watermarking](assignments/watermarking.ipynb)
-   - Task 1 (3 points): linearly blend two images
+   - Task 1: 3 points
    - **deadline: 2024/10/02**
+2. [Histogram equalization](assignments/histogram_equalization.ipynb)
+   - Task 0: 1 point
+   - Task 1: 2 points
+   - Task 2: 2 points
+   - Task 3 (optional): 5 points
 
 
 ## Useful resources
