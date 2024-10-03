@@ -1,24 +1,21 @@
 # Image analysis 2024
 
+
 ## Lectures
 
-1.  [Introduction](lectures/introduction.ipynb)
-    - overview
-    - image acquisition, pinhole camera model, thin lens, sampling & quantization
-    - digital image coordinate system, pixel values
-    - Anaconda, Numpy, Matplotlib, OpenCV, scikit-image
+| #  | date       | lecture                                                               | topics                                                   |
+|----|------------|-----------------------------------------------------------------------|----------------------------------------------------------|
+| 1. | 2024/09/19 | [Introduction](lectures/introduction.ipynb)                           | acquisition, digital image, Python tools for image proc. |
+| 2. | 2024/09/26 | [Intensity transformations](lectures/intensity_transformations.ipynb) | histogram, equalization, matching, gamma correction      |
+| 3. | 2024/10/03 | [Spatial filtering](lectures/spatial_filtering.ipynb)                 | linear & nonlinear filters, convolution, separability    |
 
 
 ## Assignments
 
-1. [Watermarking](assignments/watermarking.ipynb)
-   - Task 1: 3 points
-   - **deadline: 2024/10/02**
-2. [Histogram equalization](assignments/histogram_equalization.ipynb)
-   - Task 0: 1 point
-   - Task 1: 2 points
-   - Task 2: 2 points
-   - Task 3 (optional): 5 points
+| #  | assignment                                                         | points    | deadline   |
+|----|--------------------------------------------------------------------|-----------|------------|
+| 1. | [Watermarking](assignments/watermarking.ipynb)                     | 3         | 2024/10/02 |
+| 2. | [Histogram equalization](assignments/histogram_equalization.ipynb) | 1+2+2(+5) | 2024/10/09 |
 
 
 ## Useful resources
