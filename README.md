@@ -16,6 +16,7 @@
 |----|--------------------------------------------------------------------|-----------|------------|
 | 1. | [Watermarking](assignments/watermarking.ipynb)                     | 3         | 2024/10/02 |
 | 2. | [Histogram equalization](assignments/histogram_equalization.ipynb) | 1+2+2(+5) | 2024/10/09 |
+| 3. | [Filter effects](assignments/filter_effects.ipynb)                 | 3+5       | 2024/10/16 |
 
 
 ## Useful resources
