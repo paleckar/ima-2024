@@ -3,20 +3,21 @@
 
 ## Lectures
 
-| #  | date       | lecture                                                               | topics                                                   |
-|----|------------|-----------------------------------------------------------------------|----------------------------------------------------------|
-| 1. | 2024/09/19 | [Introduction](lectures/introduction.ipynb)                           | acquisition, digital image, Python tools for image proc. |
-| 2. | 2024/09/26 | [Intensity transformations](lectures/intensity_transformations.ipynb) | histogram, equalization, matching, gamma correction      |
-| 3. | 2024/10/03 | [Spatial filtering](lectures/spatial_filtering.ipynb)                 | linear & nonlinear filters, convolution, separability    |
+| #  | date       | lecture                                                               | topics                                                     |
+|----|------------|-----------------------------------------------------------------------|------------------------------------------------------------|
+| 1. | 2024/09/19 | [Introduction](lectures/introduction.ipynb)                           | acquisition, digital image, Python tools for image proc.   |
+| 2. | 2024/09/26 | [Intensity transformations](lectures/intensity_transformations.ipynb) | histogram, equalization, matching, gamma correction        |
+| 3. | 2024/10/03 | [Spatial filtering](lectures/spatial_filtering.ipynb)                 | linear & nonlinear filters, convolution, separability      |
+| 4. | 2024/10/10 | [Frequency domain](lectures/frequency_domain.ipynb)                   | DFT (+2D), filtering in spectrum, restoration, compression |
 
 
 ## Assignments
 
-| #  | assignment                                                         | points    | deadline   |
-|----|--------------------------------------------------------------------|-----------|------------|
-| 1. | [Watermarking](assignments/watermarking.ipynb)                     | 3         | 2024/10/02 |
-| 2. | [Histogram equalization](assignments/histogram_equalization.ipynb) | 1+2+2(+5) | 2024/10/09 |
-| 3. | [Filter effects](assignments/filter_effects.ipynb)                 | 3+5       | 2024/10/16 |
+| #  | assignment                                                         | points      | deadline   |
+|----|--------------------------------------------------------------------|-------------|------------|
+| 1. | [Watermarking](assignments/watermarking.ipynb)                     | 3           | 2024/10/02 |
+| 2. | [Histogram equalization](assignments/histogram_equalization.ipynb) | 1+2+2(+5)   | 2024/10/09 |
+| 3. | [Filter effects](assignments/filter_effects.ipynb)                 | 3+5         | 2024/10/16 |
 | 4. | [Notch filters](assignments/notch_filters.ipynb)                   | 2+3+5+3(+3) | 2024/10/30 |
 
 
