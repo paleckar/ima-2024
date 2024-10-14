@@ -17,6 +17,7 @@
 | 1. | [Watermarking](assignments/watermarking.ipynb)                     | 3         | 2024/10/02 |
 | 2. | [Histogram equalization](assignments/histogram_equalization.ipynb) | 1+2+2(+5) | 2024/10/09 |
 | 3. | [Filter effects](assignments/filter_effects.ipynb)                 | 3+5       | 2024/10/16 |
+| 4. | [Notch filters](assignments/notch_filters.ipynb)                   | 2+3+5+3(+3) | 2024/10/30 |
 
 
 ## Useful resources
