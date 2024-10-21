@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="240" font-size="12" font-family="Bitstream Vera Sans">
+<switch transform="translate(258,39)">
+<text systemLanguage="en" id="trsvg17"><tspan id="trsvg1">Incoming light</tspan></text>
+<text systemLanguage="de" id="trsvg18"><tspan id="trsvg2">Lichteinfall</tspan></text>
+<text systemLanguage="pl" id="trsvg19"><tspan id="trsvg3">&#x15A;wiat&#x142;o wchodz&#x105;ce</tspan></text>
+<text id="trsvg20-fr" systemLanguage="fr"><tspan id="trsvg4-fr">Lumi&#xE8;re entrante</tspan></text><text id="trsvg20-ca" systemLanguage="ca"><tspan id="trsvg4-ca">llum entrant</tspan></text><text id="trsvg20-eu" systemLanguage="eu"><tspan id="trsvg4-eu">Sarrerako argia</tspan></text><text id="trsvg20"><tspan id="trsvg4">(1)</tspan></text></switch>
+<switch transform="translate(258,84)">
+<text systemLanguage="en" id="trsvg21"><tspan id="trsvg5">Filter layer</tspan></text>
+<text systemLanguage="de" id="trsvg22"><tspan id="trsvg6">Farbfilter</tspan></text>
+<text systemLanguage="pl" id="trsvg23"><tspan id="trsvg7">Warstwa filtru</tspan></text>
+<text id="trsvg24-fr" systemLanguage="fr"><tspan id="trsvg8-fr">Couche filtrante</tspan></text><text id="trsvg24-ca" systemLanguage="ca"><tspan id="trsvg8-ca">capa de filtres</tspan></text><text id="trsvg24-eu" systemLanguage="eu"><tspan id="trsvg8-eu">Iragazki-geruza</tspan></text><text id="trsvg24"><tspan id="trsvg8">(2)</tspan></text></switch>
+<switch transform="translate(258,123)">
+<text systemLanguage="en" id="trsvg25"><tspan id="trsvg9">Sensor array</tspan></text>
+<text systemLanguage="de" id="trsvg26"><tspan id="trsvg10">CCD Matrix</tspan></text>
+<text systemLanguage="pl" id="trsvg27"><tspan id="trsvg11">Matrycy CCD</tspan></text>
+<text id="trsvg28-fr" systemLanguage="fr"><tspan id="trsvg12-fr">Grille de capteurs</tspan></text><text id="trsvg28-ca" systemLanguage="ca"><tspan id="trsvg12-ca">matriu de sensors</tspan></text><text id="trsvg28-eu" systemLanguage="eu"><tspan id="trsvg12-eu">Sentsore-matrizea</tspan></text><text id="trsvg28"><tspan id="trsvg12">(3)</tspan></text></switch>
+<switch transform="translate(258,203)">
+<text systemLanguage="en" id="trsvg29"><tspan id="trsvg13">Resulting pattern</tspan></text>
+<text systemLanguage="de" id="trsvg30"><tspan id="trsvg14">Ergebnis</tspan></text>
+<text systemLanguage="pl" id="trsvg31"><tspan id="trsvg15">Wz&#xF3;r wyknikowi</tspan></text>
+<text id="trsvg32-fr" systemLanguage="fr"><tspan id="trsvg16-fr">Motif de sortie</tspan></text><text id="trsvg32-ca" systemLanguage="ca"><tspan id="trsvg16-ca">patr&#xF3; resultant</tspan></text><text id="trsvg32-eu" systemLanguage="eu"><tspan id="trsvg16-eu">Irteera-patroia</tspan></text><text id="trsvg32"><tspan id="trsvg16">(4)</tspan></text></switch>
+
+<path fill="#CCC" d="m10,90v60h60V90m30,0v60h60V90m30,0v60h60V90"/>
+<path fill="#FFF" d="m10,170v60h60V170m30,0v60h60V170m30,0v60h60V170"/>
+<path fill="#F00" d="m10,70h60v20H10zm15,0-3.5-7h3v-54h1v54h3m86.5 7-3.5-7h3v-54h1v54h3m86.5,7-3.5-7h3v-54h1v54h3M25,125l-3.5-7h3v-30h1v30h3"/>
+<path fill="#0F0" d="m100,70h60v20h-60zm-60,0-3.5-7h3v-54h1v54h3m86.5 7-3.5-7h3v-54h1v54h3m86.5,7-3.5-7h3v-54h1v54h3M130,125l-3.5-7h3v-30h1v30h3"/>
+<path fill="#00F" d="m190,70h60v20h-60zm-135,0-3.5-7h3v-54h1v54h3m86.5 7-3.5-7h3v-54h1v54h3m86.5,7-3.5-7h3v-54h1v54h3M235,125l-3.5-7h3v-30h1v30h3"/>
+<g stroke-width="10" stroke-dasharray="10">
+<path stroke="#F00" d="m20,185h50m0,20H20m0,20h50"/>
+<path stroke="#0F0" d="m110,175h50m-10,10h-50m10,10h50m-10,10h-50m10,10h50m-10,10h-50"/>
+<path stroke="#00F" d="m190,175h50m0,20h-50m0,20h50"/></g>
+<g stroke="#000">
+<path stroke-width="61" stroke-dasharray="1,9" d="m9.5,200h61m29,0h61m29 0h61M40,169.5v61m90,0v-61m90,0v61"/>
+<path fill="none" d="M10,70v80h60V70zm0,20h60m30-20v80h60V70zm0 20h60m30-20v80h60V70zm0,20h60"/></g>
+</svg>
