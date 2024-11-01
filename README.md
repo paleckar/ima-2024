@@ -24,6 +24,7 @@
 | 4. | [Notch filters](assignments/notch_filters.ipynb)                   | 2+3+5+3(+3) | 2024/10/30 |
 | 5. | [Camshift](assignments/camshift.ipynb)                             | 3+5         | 2024/11/13 |
 | 6. | [Image warping](assignments/image_warping.ipynb)                   | 3+5+3       | 2024/11/20 |
+| 7. | [Tophat](assignments/tophat.ipynb)                                 | 3+3         | 2024/11/27 |
 
 
 ## Useful resources
