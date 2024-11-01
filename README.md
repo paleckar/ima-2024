@@ -10,6 +10,7 @@
 | 3. | 2024/10/03 | [Spatial filtering](lectures/spatial_filtering.ipynb)                 | linear & nonlinear filters, convolution, separability      |
 | 4. | 2024/10/10 | [Frequency domain](lectures/frequency_domain.ipynb)                   | DFT (+2D), filtering in spectrum, restoration, compression |
 | 5. | 2024/10/17 | [Color images](lectures/color_images.ipynb)                           | color perception, colorimetry, CIE XYZ, sRGB, color spaces |
+| 6. | 2024/10/17 | [Geometric transformations](lectures/geometric_transformations.ipynb) | affine transf., inverse mapping, interpolation, estimation |
 
 
 ## Assignments
