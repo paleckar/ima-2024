@@ -26,6 +26,7 @@
 | 5. | [Camshift](assignments/camshift.ipynb)                             | 3+5         | 2024/11/13 |
 | 6. | [Image warping](assignments/image_warping.ipynb)                   | 3+5+3       | 2024/11/20 |
 | 7. | [Tophat](assignments/tophat.ipynb)                                 | 3+3         | 2024/11/27 |
+| 8. | [Object segmentation](assignments/object_segmentation.ipynb)       | 8           | 2024/12/04 |
 
 
 ## Useful resources
