@@ -12,6 +12,7 @@
 | 5. | 2024/10/17 | [Color images](lectures/color_images.ipynb)                           | color perception, colorimetry, CIE XYZ, sRGB, color spaces |
 | 6. | 2024/10/24 | [Geometric transformations](lectures/geometric_transformations.ipynb) | affine transf., inverse mapping, interpolation, estimation |
 | 7. | 2024/10/31 | [Thresholding & Morphology](lectures/morhpology.ipynb)                | Otsu, adaptive thr., binary&grayscale morphology, labeling |
+| 8. | 2024/10/14 | [Segmentation](lectures/segmentation.ipynb)                           | watershed, superpixels, k-means, mean shift, GrabCut       |
 
 
 ## Assignments
