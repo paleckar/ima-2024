@@ -13,6 +13,7 @@
 | 6. | 2024/10/24 | [Geometric transformations](lectures/geometric_transformations.ipynb) | affine transf., inverse mapping, interpolation, estimation |
 | 7. | 2024/10/31 | [Thresholding & Morphology](lectures/morhpology.ipynb)                | Otsu, adaptive thr., binary&grayscale morphology, labeling |
 | 8. | 2024/10/14 | [Segmentation](lectures/segmentation.ipynb)                           | watershed, superpixels, k-means, mean shift, GrabCut       |
+| 9. | 2024/10/28 | [Classification](lectures/classification.ipynb)                       | splitting data, k-nearest neighbor, support vector machine |
 
 
 ## Assignments
@@ -27,6 +28,7 @@
 | 6. | [Image warping](assignments/image_warping.ipynb)                   | 3+5+3       | 2024/11/20 |
 | 7. | [Tophat](assignments/tophat.ipynb)                                 | 3+3         | 2024/11/27 |
 | 8. | [Object segmentation](assignments/object_segmentation.ipynb)       | 8           | 2024/12/04 |
+| 9. | [Digit recognition](assignments/digit_recognition.ipynb)           | 2+5+3+3     | 2024/12/11 |
 
 
 ## Useful resources
