@@ -19,17 +19,18 @@
 
 ## Assignments
 
-| #  | assignment                                                         | points      | deadline   |
-|----|--------------------------------------------------------------------|-------------|------------|
-| 1. | [Watermarking](assignments/watermarking.ipynb)                     | 3           | 2024/10/02 |
-| 2. | [Histogram equalization](assignments/histogram_equalization.ipynb) | 1+2+2(+5)   | 2024/10/09 |
-| 3. | [Filter effects](assignments/filter_effects.ipynb)                 | 3+5         | 2024/10/16 |
-| 4. | [Notch filters](assignments/notch_filters.ipynb)                   | 2+3+5+3(+3) | 2024/10/30 |
-| 5. | [Camshift](assignments/camshift.ipynb)                             | 3+5         | 2024/11/13 |
-| 6. | [Image warping](assignments/image_warping.ipynb)                   | 3+5+3       | 2024/11/20 |
-| 7. | [Tophat](assignments/tophat.ipynb)                                 | 3+3         | 2024/11/27 |
-| 8. | [Object segmentation](assignments/object_segmentation.ipynb)       | 8           | 2024/12/04 |
-| 9. | [Digit recognition](assignments/digit_recognition.ipynb)           | 2+5+3+3     | 2024/12/11 |
+| #   | assignment                                                         | points      | deadline   |
+|-----|--------------------------------------------------------------------|-------------|------------|
+| 1.  | [Watermarking](assignments/watermarking.ipynb)                     | 3           | 2024/10/02 |
+| 2.  | [Histogram equalization](assignments/histogram_equalization.ipynb) | 1+2+2(+5)   | 2024/10/09 |
+| 3.  | [Filter effects](assignments/filter_effects.ipynb)                 | 3+5         | 2024/10/16 |
+| 4.  | [Notch filters](assignments/notch_filters.ipynb)                   | 2+3+5+3(+3) | 2024/10/30 |
+| 5.  | [Camshift](assignments/camshift.ipynb)                             | 3+5         | 2024/11/13 |
+| 6.  | [Image warping](assignments/image_warping.ipynb)                   | 3+5+3       | 2024/11/20 |
+| 7.  | [Tophat](assignments/tophat.ipynb)                                 | 3+3         | 2024/11/27 |
+| 8.  | [Object segmentation](assignments/object_segmentation.ipynb)       | 8           | 2024/12/04 |
+| 9.  | [Digit recognition](assignments/digit_recognition.ipynb)           | 2+5+3+3     | 2024/12/11 |
+| 10. | [Hough corners](assignments/hough_corners.ipynb)                   | 2+5+3+2(+8) | 2024/12/18 |
 
 
 ## Useful resources
