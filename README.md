@@ -3,17 +3,18 @@
 
 ## Lectures
 
-| #  | date       | lecture                                                               | topics                                                     |
-|----|------------|-----------------------------------------------------------------------|------------------------------------------------------------|
-| 1. | 2024/09/19 | [Introduction](lectures/introduction.ipynb)                           | acquisition, digital image, Python tools for image proc.   |
-| 2. | 2024/09/26 | [Intensity transformations](lectures/intensity_transformations.ipynb) | histogram, equalization, matching, gamma correction        |
-| 3. | 2024/10/03 | [Spatial filtering](lectures/spatial_filtering.ipynb)                 | linear & nonlinear filters, convolution, separability      |
-| 4. | 2024/10/10 | [Frequency domain](lectures/frequency_domain.ipynb)                   | DFT (+2D), filtering in spectrum, restoration, compression |
-| 5. | 2024/10/17 | [Color images](lectures/color_images.ipynb)                           | color perception, colorimetry, CIE XYZ, sRGB, color spaces |
-| 6. | 2024/10/24 | [Geometric transformations](lectures/geometric_transformations.ipynb) | affine transf., inverse mapping, interpolation, estimation |
-| 7. | 2024/10/31 | [Thresholding & Morphology](lectures/morhpology.ipynb)                | Otsu, adaptive thr., binary&grayscale morphology, labeling |
-| 8. | 2024/10/14 | [Segmentation](lectures/segmentation.ipynb)                           | watershed, superpixels, k-means, mean shift, GrabCut       |
-| 9. | 2024/10/28 | [Classification](lectures/classification.ipynb)                       | splitting data, k-nearest neighbor, support vector machine |
+| #   | date       | lecture                                                               | topics                                                     |
+|-----|------------|-----------------------------------------------------------------------|------------------------------------------------------------|
+| 1.  | 2024/09/19 | [Introduction](lectures/introduction.ipynb)                           | acquisition, digital image, Python tools for image proc.   |
+| 2.  | 2024/09/26 | [Intensity transformations](lectures/intensity_transformations.ipynb) | histogram, equalization, matching, gamma correction        |
+| 3.  | 2024/10/03 | [Spatial filtering](lectures/spatial_filtering.ipynb)                 | linear & nonlinear filters, convolution, separability      |
+| 4.  | 2024/10/10 | [Frequency domain](lectures/frequency_domain.ipynb)                   | DFT (+2D), filtering in spectrum, restoration, compression |
+| 5.  | 2024/10/17 | [Color images](lectures/color_images.ipynb)                           | color perception, colorimetry, CIE XYZ, sRGB, color spaces |
+| 6.  | 2024/10/24 | [Geometric transformations](lectures/geometric_transformations.ipynb) | affine transf., inverse mapping, interpolation, estimation |
+| 7.  | 2024/10/31 | [Thresholding & Morphology](lectures/morhpology.ipynb)                | Otsu, adaptive thr., binary&grayscale morphology, labeling |
+| 8.  | 2024/11/14 | [Segmentation](lectures/segmentation.ipynb)                           | watershed, superpixels, k-means, mean shift, GrabCut       |
+| 9.  | 2024/11/28 | [Classification](lectures/classification.ipynb)                       | splitting data, k-nearest neighbor, support vector machine |
+| 10. | 2024/12/05 | [Edge detection and Hough transform](lectures/edges_hough.ipynb)      | gradient, Sobel, Laplacian, Canny, Hough transform         |
 
 
 ## Assignments
