@@ -1,5 +1,8 @@
 # Image analysis 2024
 
+> [!NOTE]
+> The class will close on 31st January 2025. After that, it will no longer be possible to submit solutions to assignments and the grading will be finalized.
+
 
 ## Lectures
 
@@ -15,6 +18,7 @@
 | 8.  | 2024/11/14 | [Segmentation](lectures/segmentation.ipynb)                           | watershed, superpixels, k-means, mean shift, GrabCut       |
 | 9.  | 2024/11/28 | [Classification](lectures/classification.ipynb)                       | splitting data, k-nearest neighbor, support vector machine |
 | 10. | 2024/12/05 | [Edge detection and Hough transform](lectures/edges_hough.ipynb)      | gradient, Sobel, Laplacian, Canny, Hough transform         |
+| 11. | 2024/12/12 | [Local features](lectures/local_features.ipynb)                       | Harris corners, LoG, DoG, MSER, SIFT, RANSAC               |
 
 
 ## Assignments
@@ -31,6 +35,7 @@
 | 8.  | [Object segmentation](assignments/object_segmentation.ipynb)       | 8           | 2024/12/04 |
 | 9.  | [Digit recognition](assignments/digit_recognition.ipynb)           | 2+5+3+3     | 2024/12/11 |
 | 10. | [Hough corners](assignments/hough_corners.ipynb)                   | 2+5+3+2(+8) | 2024/12/18 |
+| 11. | [Object detection](assignments/object_detection.ipynb)             | 5+2+3+3+2   | 2025/01/08 |
 
 
 ## Useful resources
